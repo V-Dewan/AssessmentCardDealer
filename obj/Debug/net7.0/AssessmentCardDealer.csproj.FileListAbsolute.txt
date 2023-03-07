@@ -1,0 +1,15 @@
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.csproj.AssemblyReference.cache
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.AssemblyInfoInputs.cache
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.AssemblyInfo.cs
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.csproj.CoreCompileInputs.cache
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/bin/Debug/net7.0/AssessmentCardDealer
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/bin/Debug/net7.0/AssessmentCardDealer.deps.json
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/bin/Debug/net7.0/AssessmentCardDealer.runtimeconfig.json
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/bin/Debug/net7.0/AssessmentCardDealer.dll
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/bin/Debug/net7.0/AssessmentCardDealer.pdb
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.dll
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/refint/AssessmentCardDealer.dll
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.pdb
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/AssessmentCardDealer.genruntimeconfig.cache
+/Users/vdewan/Projects/AssessmentCardDealer/AssessmentCardDealer/obj/Debug/net7.0/ref/AssessmentCardDealer.dll
