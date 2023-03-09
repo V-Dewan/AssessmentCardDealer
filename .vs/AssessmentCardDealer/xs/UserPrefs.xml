@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D72AEF50-DA13-48FD-8204-F1558D0D8B30}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.AssessmentCardDealer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Testing.cs">
+    <Files>
+      <File FileName="Pack.cs" />
+      <File FileName="Program.cs" />
+      <File FileName="Testing.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AssessmentCardDealer" expanded="True">
+            <Node name="AssessmentCardDealer" expanded="True">
+              <Node name="Testing.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
