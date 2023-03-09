@@ -53,6 +53,7 @@ namespace AssessmentCardDealer
             string V;
             string S;
 
+            //done to make it look better. replaces the values of the special cards to their name, e.g., 1 = ace, 11 = jack etc.
             if (Value == 1)
             {
                 V = "Ace";
@@ -74,6 +75,7 @@ namespace AssessmentCardDealer
                 V = Convert.ToString(Value);
             }
 
+            //replaces the values to their suit names, e.g., 1 = clubs, 2 = diamonds etc.
             if (Suit == 1)
             {
                 S = "Clubs";
